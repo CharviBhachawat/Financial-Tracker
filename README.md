@@ -2,9 +2,12 @@ Financial Habit Builder
 
 A powerful and interactive web application to track income, expenses, and savings while building better financial habits. It provides a user-friendly dashboard with real-time insights, visual charts, and export features.
 
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/cb703095-12f5-4185-9138-1c0ce0d28617" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c6cd75a7-81f9-40f6-a8a9-a5bb155276a5" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/aadb542d-b9e1-47b8-897d-ac041779678c" />
 
 
-1. Features
+• Features
    
 1) User Authentication (Login & Signup using LocalStorage)
 2) Income and Expense Tracking
@@ -20,7 +23,7 @@ A powerful and interactive web application to track income, expenses, and saving
 
 
     
-2. Technologies Used
+• Technologies Used
 1) HTML – Structure
 2) CSS – Styling and Responsive UI
 3) JavaScript – Logic and Interactivity
@@ -31,7 +34,7 @@ A powerful and interactive web application to track income, expenses, and saving
 
 
    
-3. Project Structure
+• Project Structure
 
 Financial-Habit-Builder
 
@@ -42,7 +45,7 @@ Financial-Habit-Builder
 
 
  
-4. How to Run
+• How to Run
 
 1) Clone or download the repository
 2) Open index.html in any browser
@@ -52,7 +55,7 @@ Financial-Habit-Builder
 
 
 
-5. Key Functionalities
+• Key Functionalities
 
 1) Add income and expenses with categories
 2) Automatically track savings
@@ -62,7 +65,7 @@ Financial-Habit-Builder
 
 
 
-6. Future Enhancements
+• Future Enhancements
 
 1) Backend integration (database and authentication)
 2) Mobile application version
@@ -72,12 +75,12 @@ Financial-Habit-Builder
 
 
 
-7. Author
+• Author
 
 Charvi Bhachawat
 
 
 
-8. Note
+• Note
 
 This project demonstrates practical skills in frontend development, data visualization, and real-world application design.
