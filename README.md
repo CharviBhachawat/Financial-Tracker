@@ -2,9 +2,10 @@ Financial Habit Builder
 
 A powerful and interactive web application to track income, expenses, and savings while building better financial habits. It provides a user-friendly dashboard with real-time insights, visual charts, and export features.
 
-<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/cb703095-12f5-4185-9138-1c0ce0d28617" />
-<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c6cd75a7-81f9-40f6-a8a9-a5bb155276a5" />
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/aadb542d-b9e1-47b8-897d-ac041779678c" />
+<img width="400" height="250" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/aadb542d-b9e1-47b8-897d-ac041779678c" />
+<img width="400" height="250" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c6cd75a7-81f9-40f6-a8a9-a5bb155276a5" />
+<img width="400" height="250" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/cb703095-12f5-4185-9138-1c0ce0d28617" />
+
 
 
 • Features
